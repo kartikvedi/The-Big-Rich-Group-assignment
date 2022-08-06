@@ -1,0 +1,25 @@
+URL of the website: https://detourcoffee.com/
+
+Key feature of website:
+1.A Simple, Easy to Remember URL i.e it is related to coffee
+2.A Clear Description of Your Business
+3.Mobile Friendly or Responsive Design
+4.Contact Information
+5.Call to Actions
+6.Ensuring easy navigation.
+
+User flow:
+Here, in this website it is  presenting the right information at the right time while minimizing friction along the way. Users will be more likely to convert if the product provides the information they need at the moment they need it.
+
+Types of Web Testing
+    Simple static website testing.
+    Dynamic web application testing.
+    E-commerce website testing.
+    Mobile website testing.
+
+How to test the website?
+    Verify there is no dead page or invalid redirects.
+    First check all the validations on each field.
+    Wrong inputs to perform negative testing.
+    Verify the workflow of the system.
+    Verify the data integrity.
